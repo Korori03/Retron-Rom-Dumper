@@ -1,0 +1,9 @@
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\bin\Debug\Retron Rom Dumper.exe.config
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\bin\Debug\Retron Rom Dumper.exe
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\bin\Debug\Retron Rom Dumper.pdb
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\obj\Debug\Retron Rom Dumper.csprojResolveAssemblyReference.cache
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\obj\Debug\Retron_Rom_Dumper.Form1.resources
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\obj\Debug\Retron_Rom_Dumper.Properties.Resources.resources
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\obj\Debug\Retron Rom Dumper.csproj.GenerateResource.Cache
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\obj\Debug\Retron Rom Dumper.exe
+R:\visual studio 2017\Projects\Retron Rom Dumper\Retron Rom Dumper\obj\Debug\Retron Rom Dumper.pdb
